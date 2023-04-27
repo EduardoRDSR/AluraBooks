@@ -8,10 +8,14 @@
 :root{
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
+    --preto: #000000;
     --laranja: #eb9b00;
     --azul-escuro: #002f52;
+    --cinza: #474646;
+    --cinza-claro: #858585;
     --azul: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --font-pricipal: "Poppins";
+    --font-secundaria: "Josefin Sans";
 }
 
 body{
